@@ -1,1 +1,1 @@
-# DataScienceSampleProject
+# Data Science Sample Project
